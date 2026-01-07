@@ -1,6 +1,6 @@
 # Networking Labs Index
 
-## Available Labs
+## Current Labs
 
 ### [Lab 1: TCP/IP Fundamentals](01-tcp-ip-fundamentals.md)
 **Duration:** 30-45 minutes  
@@ -25,6 +25,15 @@
 **Difficulty:** Advanced  
 **Topics:** Network troubleshooting, performance analysis  
 **Tools:** netstat, pathping, netsh, wmic
+
+## Upcoming Labs
+- Network Security Fundamentals
+- Wireless Network Analysis
+- VPN Configuration & Troubleshooting
+- Network Performance Monitoring
+- Firewall Configuration
+
+*Check back regularly for new lab additions*
 
 ## Lab Progression
 1. Start with Lab 1 for foundational concepts

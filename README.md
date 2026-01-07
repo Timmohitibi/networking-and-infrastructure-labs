@@ -2,11 +2,13 @@
 
 This repository contains hands-on networking and infrastructure labs focused on troubleshooting, fundamentals, and real-world scenarios. The labs are documented using practical examples rather than simulations alone.
 
-## Available Labs
+## Current Labs
 - **Lab 1:** TCP/IP Fundamentals
 - **Lab 2:** DNS Troubleshooting  
 - **Lab 3:** IP Addressing & Subnetting
 - **Lab 4:** Local Network Diagnostics
+
+*More labs coming soon...*
 
 ## Getting Started
 1. Navigate to the [labs](./labs/) directory
