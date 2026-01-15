@@ -26,12 +26,27 @@
 **Topics:** Network troubleshooting, performance analysis  
 **Tools:** netstat, pathping, netsh, wmic
 
+### [Lab 5: Network Security Fundamentals](05-network-security-fundamentals.md)
+**Duration:** 60-90 minutes  
+**Difficulty:** Intermediate  
+**Topics:** Port scanning, firewall review, threat detection  
+**Tools:** netstat, netsh, Windows Defender Firewall
+
+### [Lab 6: Firewall Configuration](06-firewall-configuration.md)
+**Duration:** 45-60 minutes  
+**Difficulty:** Advanced  
+**Topics:** Firewall rules, traffic filtering, security hardening  
+**Tools:** netsh, Windows Defender Firewall with Advanced Security
+
+### [Lab 7: Network Performance Monitoring](07-network-performance-monitoring.md)
+**Duration:** 60-75 minutes  
+**Difficulty:** Advanced  
+**Topics:** Latency analysis, bandwidth monitoring, performance baselines  
+**Tools:** ping, pathping, netstat, perfmon, Resource Monitor
+
 ## Upcoming Labs
-- Network Security Fundamentals
 - Wireless Network Analysis
 - VPN Configuration & Troubleshooting
-- Network Performance Monitoring
-- Firewall Configuration
 
 *Check back regularly for new lab additions*
 
@@ -39,6 +54,8 @@
 1. Start with Lab 1 for foundational concepts
 2. Progress through Labs 2-3 for core skills
 3. Complete Lab 4 for advanced troubleshooting
+4. Labs 5-6 cover security fundamentals
+5. Lab 7 focuses on performance monitoring
 
 ## Prerequisites
 - Windows 10/11 with command prompt access

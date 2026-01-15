@@ -7,8 +7,9 @@ This repository contains hands-on networking and infrastructure labs focused on 
 - **Lab 2:** DNS Troubleshooting  
 - **Lab 3:** IP Addressing & Subnetting
 - **Lab 4:** Local Network Diagnostics
-
-*More labs coming soon...*
+- **Lab 5:** Network Security Fundamentals
+- **Lab 6:** Firewall Configuration
+- **Lab 7:** Network Performance Monitoring
 
 ## Getting Started
 1. Navigate to the [labs](./labs/) directory
