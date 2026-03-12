@@ -11,6 +11,10 @@ This repository contains hands-on networking and infrastructure labs focused on 
 - **Lab 6:** Firewall Configuration
 - **Lab 7:** Network Performance Monitoring
 
+## Upcoming Labs
+- **Lab 8:** Wireless Network Analysis
+- **Lab 9:** VPN Configuration & Troubleshooting
+
 ## Getting Started
 1. Navigate to the [labs](./labs/) directory
 2. Start with the [Lab Index](./labs/README.md) for an overview
